@@ -9,7 +9,7 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/ammarbinshakir/ammarbinshakir/blob/main/animation_500_kxa883sd.gif" alt="ammarbinshakir" /></p>
+<p><img align="right" src="https://github.com/ammarbinshakir/ammarbinshakir/blob/main/awesome.gif" alt="ammarbinshakir" /></p>
 
 
 - 🌱 I’m currently working as a Web Developer at Geekinate
