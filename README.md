@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ammar Bin Shakir</h1>
-<h3 align="center">Software Engineer at Geekinate🌟.</h3>
+<h3 align="center">Software Engineer🌟.</h3>
 
 <br>
 
@@ -12,7 +12,7 @@
 <p><img align="right" src="https://github.com/ammarbinshakir/ammarbinshakir/blob/main/awesome.gif" alt="ammarbinshakir" /></p>
 
 
-- 🌱 I’m currently working as a Web Developer at Geekinate
+- 🌱 I’m currently working as a Web Developer
 
 - 📫 How to reach me **ammarbinshakir557@gmail.com**
 
