@@ -15,8 +15,8 @@
 - 🌱 I’m currently working as a Web Developer
 
 - 📫 How to reach me **ammarbinshakir557@gmail.com**
-- https://ammarbinshakir.vercel.app/
-
+- [https://ammar.geekscrew.xyz/
+](https://ammar.geekscrew.xyz/)
 <br>
 
 <h3 align="left">Connect with me:</h3>
