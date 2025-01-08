@@ -15,8 +15,8 @@
 - 🌱 I’m currently working as a Web Developer
 
 - 📫 How to reach me **ammarbinshakir557@gmail.com**
-- [https://ammar.geekscrew.xyz/
-](https://ammar.geekscrew.xyz/)
+- [Visit My Portfolio
+](https://ammarbinshakir.vercel.app/)
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -81,9 +81,4 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammarbinshakir&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="ammarbinshakir" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[Ammarbinshakir](https://github.com/ammarbinshakir)
