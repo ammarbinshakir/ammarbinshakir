@@ -10,8 +10,6 @@
 </p>
 </p>
 
----
-
 
 
 
@@ -23,7 +21,6 @@
 - 🧠 Actively learning **Python** and expanding into **DevOps** and **cloud-native architectures**
 - 🌍 Open to exciting opportunities
 
----
 
 ### 🛠️ Tech Stack & Tools
 
@@ -40,33 +37,33 @@
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
 </p>
 
----
+### 🏆 GitHub Achievements
 
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarbinshakir&show_icons=true&theme=github_dark" alt="Ammar's GitHub stats"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ammarbinshakir&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarbinshakir&layout=compact&theme=github_dark" alt="Top Languages"/>
+### 🔥 GitHub Streaks
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ammarbinshakir&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
----
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ammarbinshakir/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/ammarbinshakir" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://www.instagram.com/ammarbinshakir/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://www.facebook.com/amarbinshakir" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
 </p>
+
