@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a passionate and detail-oriented **Senior Software Engineer** with over 5 years of experience in building scalable, production-grade web applications. I specialize in modern **full-stack development** with a focus on performance, developer experience, and cloud-native practices.
+I'm a passionate and detail-oriented **Senior Software Engineer** with over 5+ years of experience in building scalable, production-grade web applications. I specialize in modern **full-stack development** with a focus on performance, developer experience, and cloud-native practices.
 
 - 🔭 **Currently:** Working on enterprise-scale projects using **React**, **Next.js**, **Node.js**, and **AWS**
 - ⚙️ **Expertise:** Designing RESTful/GraphQL APIs, serverless architectures, CI/CD pipelines, and end-to-end testing
