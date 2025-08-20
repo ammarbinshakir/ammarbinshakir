@@ -36,16 +36,6 @@ I'm a passionate and detail-oriented **Senior Software Engineer** with over 5+ y
 | **AI & LLMs**      | OpenAI APIs (ChatGPT), Claude by Anthropic, AI Workflows & SDKs  |
 | **Learning**       | Python, FastAPI, Kubernetes, Terraform                                    |
 
-
----
-
-### 📈 GitHub Stats & Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ammarbinshakir&theme=algolia&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-
 ---
 
 ### 🌐 Let's Connect
